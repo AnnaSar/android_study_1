@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">lesson_1</string>
+
+    <plurals name="statBudgetCount">
+        <item quantity="one">%d бюджет</item>
+        <item quantity="two">%d бюджета</item>
+        <item quantity="few">%d бюджета</item>
+        <item quantity="other">%d бюджетов</item>
+    </plurals>
+</resources>
